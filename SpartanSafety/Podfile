@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+project '/Users/austinjevans/Documents/msu/courses/EGR 100/SpartanSafety/SpartanSafety.xcodeproj'
+target 'SpartanSafety' do
+    pod 'GooglePlaces'
+    pod 'GooglePlacePicker'
+    pod 'GoogleMaps'
+    use_frameworks!
+	pod 'TwitterKit'
+end

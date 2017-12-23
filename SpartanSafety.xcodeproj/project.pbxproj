@@ -27,7 +27,7 @@
 		2FC120CEDDD45681D77382DE /* Pods-SpartanSafety.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SpartanSafety.release.xcconfig"; path = "SpartanSafety/Pods/Target Support Files/Pods-SpartanSafety/Pods-SpartanSafety.release.xcconfig"; sourceTree = "<group>"; };
 		3011DCF6503E78DABF0CC84C /* Pods_SpartanSafety.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SpartanSafety.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		311BD8F11B0916038B4CBBC4 /* Pods-SpartanSafety.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SpartanSafety.debug.xcconfig"; path = "SpartanSafety/Pods/Target Support Files/Pods-SpartanSafety/Pods-SpartanSafety.debug.xcconfig"; sourceTree = "<group>"; };
-		93099E921FEE69CF00458A06 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		93099E921FEE69CF00458A06 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = SpartanSafety/README.md; sourceTree = "<group>"; };
 		932B84A01F985C5E00C5ADF6 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		932E26821FAC283F0047CA9F /* Resources.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Resources.swift; sourceTree = "<group>"; };
 		932E26841FAC2A360047CA9F /* ResourceCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourceCollection.swift; sourceTree = "<group>"; };
@@ -76,6 +76,7 @@
 		9355A1E51F97FC6200F59E70 = {
 			isa = PBXGroup;
 			children = (
+				93099E921FEE69CF00458A06 /* README.md */,
 				9355A1F01F97FC6200F59E70 /* SpartanSafety */,
 				9355A1EF1F97FC6200F59E70 /* Products */,
 				3FBA202C1B6E168A9CCB2D67 /* Pods */,
@@ -99,7 +100,6 @@
 				932E26821FAC283F0047CA9F /* Resources.swift */,
 				932E26841FAC2A360047CA9F /* ResourceCollection.swift */,
 				9383F8101FA9972100C075A3 /* ResourcesViewController.swift */,
-				93099E921FEE69CF00458A06 /* README.md */,
 				933BC7721FCCF38F009D9FFB /* InfoViewController.swift */,
 				93AD92DF1FA96CAE00C3468E /* ReportViewController.swift */,
 				93AD92E11FA973AF00C3468E /* TwitterViewController.swift */,

@@ -5,6 +5,11 @@ This app has been designed to let you text MSUPD straight from an app with the d
 This app is very easy to use and if you ever feel unsafe, there is a way to contact the police with just the click of a button. The SpartanSafety app also has a resource page with several phone numbers of people to contact for health, addiction, and safety information.
 Another feature of the app is that it has the MSU PD and East Lansing PD twitter connected to the app, so you can get live updates of current situations on MSU campus.
 
+## Screenshots
+
+![Resources Tab](Screen%20Shots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202017-11-05%20at%2014.54.30.png)
+![Report Tab](Screen%20Shots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202017-11-05%20at%2014.54.37.png)
+![Twitter Tab](Screen%20Shots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202017-11-05%20at%2014.54.41.png)
 
 ## Getting Started
 
